@@ -23,9 +23,9 @@
 
     <distributionManagement>
         <repository>
-            <id>internal.repo</id>
+            <id>progbits</id>
             <name>Internal Repo</name>
-            <url>${mvnRepo}</url>
+            <url>https://archiva.progbits.com/coffer/repository/internal/</url>
         </repository>
     </distributionManagement>
 
